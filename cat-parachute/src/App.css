@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.parallax {
+  background: #000;
+  width: 100vw;
+  height: 100vh;
+}
+
+div h1 {
+  display: flex;
+  background: none;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  font-size: 5rem;
+  color: #fff;
+}
